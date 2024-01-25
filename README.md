@@ -5,7 +5,7 @@ dentro do diretório correspondente.
 
 ## Testando os Códigos
 
-Você pode testar esses códigos também no site [DotNetFiddle](https://dotnetfiddle.net/). Basta copiar o código do arquivo `Program.cs` e colar no editor do DotNetFiddle.
+Você pode testar esses códigos também no site [DotNetFiddle](https://dotnetfiddle.net/). Basta copiar o código do arquivo `Program.cs` e colar no editor do DotNetFiddle e colocar o copilador no .Net7 https://dotnetfiddle.net/.
 
 Espero que você encontre este projeto útil e interessante. Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue.
 
