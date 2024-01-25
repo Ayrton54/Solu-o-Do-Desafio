@@ -1,0 +1,14 @@
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\menor_distancia_array\bin\Debug\net7.0\menor_distancia_array.exe
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\menor_distancia_array\bin\Debug\net7.0\menor_distancia_array.deps.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\menor_distancia_array\bin\Debug\net7.0\menor_distancia_array.runtimeconfig.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\menor_distancia_array\bin\Debug\net7.0\menor_distancia_array.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\menor_distancia_array\bin\Debug\net7.0\menor_distancia_array.pdb
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\menor_distancia_array\obj\Debug\net7.0\menor_distancia_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\menor_distancia_array\obj\Debug\net7.0\menor_distancia_array.AssemblyInfoInputs.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\menor_distancia_array\obj\Debug\net7.0\menor_distancia_array.AssemblyInfo.cs
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\menor_distancia_array\obj\Debug\net7.0\menor_distancia_array.csproj.CoreCompileInputs.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\menor_distancia_array\obj\Debug\net7.0\menor_distancia_array.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\menor_distancia_array\obj\Debug\net7.0\refint\menor_distancia_array.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\menor_distancia_array\obj\Debug\net7.0\menor_distancia_array.pdb
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\menor_distancia_array\obj\Debug\net7.0\menor_distancia_array.genruntimeconfig.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\menor_distancia_array\obj\Debug\net7.0\ref\menor_distancia_array.dll

@@ -1,0 +1,14 @@
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\criptografia_navio\bin\Debug\net7.0\criptografia_navio.exe
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\criptografia_navio\bin\Debug\net7.0\criptografia_navio.deps.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\criptografia_navio\bin\Debug\net7.0\criptografia_navio.runtimeconfig.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\criptografia_navio\bin\Debug\net7.0\criptografia_navio.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\criptografia_navio\bin\Debug\net7.0\criptografia_navio.pdb
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\criptografia_navio\obj\Debug\net7.0\criptografia_navio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\criptografia_navio\obj\Debug\net7.0\criptografia_navio.AssemblyInfoInputs.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\criptografia_navio\obj\Debug\net7.0\criptografia_navio.AssemblyInfo.cs
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\criptografia_navio\obj\Debug\net7.0\criptografia_navio.csproj.CoreCompileInputs.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\criptografia_navio\obj\Debug\net7.0\criptografia_navio.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\criptografia_navio\obj\Debug\net7.0\refint\criptografia_navio.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\criptografia_navio\obj\Debug\net7.0\criptografia_navio.pdb
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\criptografia_navio\obj\Debug\net7.0\criptografia_navio.genruntimeconfig.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\criptografia_navio\obj\Debug\net7.0\ref\criptografia_navio.dll

@@ -1,0 +1,14 @@
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\livro_de_ofertas\bin\Debug\net7.0\livro_de_ofertas.exe
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\livro_de_ofertas\bin\Debug\net7.0\livro_de_ofertas.deps.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\livro_de_ofertas\bin\Debug\net7.0\livro_de_ofertas.runtimeconfig.json
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\livro_de_ofertas\bin\Debug\net7.0\livro_de_ofertas.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\livro_de_ofertas\bin\Debug\net7.0\livro_de_ofertas.pdb
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\livro_de_ofertas\obj\Debug\net7.0\livro_de_ofertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\livro_de_ofertas\obj\Debug\net7.0\livro_de_ofertas.AssemblyInfoInputs.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\livro_de_ofertas\obj\Debug\net7.0\livro_de_ofertas.AssemblyInfo.cs
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\livro_de_ofertas\obj\Debug\net7.0\livro_de_ofertas.csproj.CoreCompileInputs.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\livro_de_ofertas\obj\Debug\net7.0\livro_de_ofertas.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\livro_de_ofertas\obj\Debug\net7.0\refint\livro_de_ofertas.dll
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\livro_de_ofertas\obj\Debug\net7.0\livro_de_ofertas.pdb
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\livro_de_ofertas\obj\Debug\net7.0\livro_de_ofertas.genruntimeconfig.cache
+C:\Users\lopes\OneDrive\Área de Trabalho\Solução do desafio\livro_de_ofertas\obj\Debug\net7.0\ref\livro_de_ofertas.dll
